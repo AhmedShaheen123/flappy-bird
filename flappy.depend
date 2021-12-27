@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1640634620 source:c:\users\shaheeen\desktop\new folder (3)\flappy bird\main.cpp
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<mmsystem.h>
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<string>
+	<sstream>
+	<string.h>
+	<cstdio>
+
